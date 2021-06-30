@@ -1,4 +1,4 @@
-- 👋 Hi, I’m a Solutions Developer with Nodejs,Javascript,Typescript
+- 👋 Hi, I’m a Solutions Developer with Nodejs/Javascript/Typescript
 - 👀 I’m interested in Backend Development
 - 🌱 I’m currently learning GraphQL API
 - 💞️ I’m looking to collaborate on ...
